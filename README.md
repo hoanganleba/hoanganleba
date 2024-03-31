@@ -23,7 +23,7 @@
 Feel free to reach out to me through the following channels:
 
 - Email: hoanganleba@gmail.com
-- LinkedIn: https://www.linkedin.com/in/ho%C3%A0ng-an-l%C3%AA-08407517b/
+- LinkedIn: [https://www.linkedin.com/in/ho%C3%A0ng-an-l%C3%AA-08407517b/](https://www.linkedin.com/in/ho%C3%A0ng-an-l%C3%AA-b%C3%A1-08407517b/)
 
 I'm always open to new opportunities, collaborations, or just a friendly conversation!
 
