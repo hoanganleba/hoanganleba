@@ -6,24 +6,27 @@
 ## 🧭 About Me
 
 I'm a Quant Researcher working at the intersection of **mathematics, machine learning, and financial markets**.  
-My work focuses on building systematic trading strategies and developing research frameworks that extract signals from noisy financial data.
+My work focuses on designing systematic trading strategies and building research frameworks grounded in first principles.
 
-I previously worked as a web developer, but transitioned fully into quantitative finance to pursue deeper analytical and modeling challenges.
+I focus heavily on **developing algorithms and models from scratch**, avoiding unnecessary abstractions, and favoring full control over data pipelines, simulation logic, and signal mechanics.
 
 ---
 
 ## 🧰 Technical Focus
 
-### Quant & Modeling
+### Quant & Research Principles
 - Alpha signal research (cross-sectional & time-series)  
-- Factor modeling & feature engineering  
-- Risk modeling and portfolio optimization  
-- Backtesting frameworks & execution simulation  
+- Factor modeling & statistical foundations  
+- Risk modeling and portfolio construction  
+- Backtesting frameworks built from first principles  
 
-### Tools & Stack
-- Python · NumPy · Pandas · SciPy  
-- statsmodels · scikit-learn · PyTorch  
-- SQL · Jupyter · Linux · Git  
+### Tools & Core Stack
+My workflow deliberately centers around **NumPy** and **Pandas** as the fundamental building blocks:
+
+- **NumPy:** vectorized operations, custom factor engines, linear algebra  
+- **Pandas:** time-series pipelines, data wrangling, feature engineering  
+
+I minimize dependencies and avoid higher-level libraries like PyTorch or SciPy unless absolutely needed — ensuring **transparent, controllable, reproducible research**.
 
 ---
 
@@ -32,9 +35,8 @@ I previously worked as a web developer, but transitioned fully into quantitative
 - **Email:** hoanganleba@gmail.com  
 - **LinkedIn:** https://www.linkedin.com/in/hoàng-an-lê-bá-08407517b/
 
-Always open to research collaborations or conversations about markets, ML, and systematic strategies.
+Always open to research collaborations or conversations about systematic trading, ML, and quant modeling.
 
 ---
 
-Minimal. Clean. Professional.  
-Just like a good quant model — nothing extra.
+Clean. Precise. Built from fundamentals.
