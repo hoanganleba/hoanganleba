@@ -1,42 +1,64 @@
-<h1 align="center">Hi 👋, I'm Le Ba Hoang An</h1>
-<h3 align="center">Quant Researcher · Systematic Trading · Machine Learning</h3>
+# Le Ba Hoang An 
+
+Quant Researcher • System Architect
 
 ---
 
-## 🧭 About Me
+## Signal
 
-I'm a Quant Researcher working at the intersection of **mathematics, machine learning, and financial markets**.  
-My work focuses on designing systematic trading strategies and building research frameworks grounded in first principles.
-
-I focus heavily on **developing algorithms and models from scratch**, avoiding unnecessary abstractions, and favoring full control over data pipelines, simulation logic, and signal mechanics.
+I don't optimize for output.  
+I optimize for edge.
 
 ---
 
-## 🧰 Technical Focus
+## Direction
 
-### Quant & Research Principles
-- Alpha signal research (cross-sectional & time-series)  
-- Factor modeling & statistical foundations  
-- Risk modeling and portfolio construction  
-- Backtesting frameworks built from first principles  
+Building systems at the intersection of:
 
-### Tools & Core Stack
-My workflow deliberately centers around **NumPy** and **Pandas** as the fundamental building blocks:
-
-- **NumPy:** vectorized operations, custom factor engines, linear algebra  
-- **Pandas:** time-series pipelines, data wrangling, feature engineering  
-
-I minimize dependencies and avoid higher-level libraries like PyTorch or SciPy unless absolutely needed — ensuring **transparent, controllable, reproducible research**.
+- quantitative research  
+- adaptive intelligence  
+- long-term decision frameworks  
 
 ---
 
-## 📬 Contact
+## Phoenix Engine
 
-- **Email:** hoanganleba@gmail.com  
-- **LinkedIn:** https://www.linkedin.com/in/hoàng-an-lê-bá-08407517b/
+A modular system exploring:
 
-Always open to research collaborations or conversations about systematic trading, ML, and quant modeling.
+- entropy as a primitive  
+- learning as adaptation  
+- intelligence as layered systems  
+
+Not a project.  
+A long-term architecture.
 
 ---
 
-Clean. Precise. Built from fundamentals.
+## Principles
+
+- Systems over shortcuts  
+- Depth over noise  
+- Consistency over intensity  
+
+---
+
+## Stack
+
+Python • NumPy • Pandas  
+
+Minimal. Intentional.
+
+---
+
+## Outside the system
+
+- Tennis  
+- Movement  
+- Cinematic thinking  
+
+---
+
+## Note
+
+If this resonates,  
+you already understand.
